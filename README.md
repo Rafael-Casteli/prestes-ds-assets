@@ -50,21 +50,21 @@ flowchart LR
 Um link de asset tem esta cara:
 
 ```
-https://raw.githubusercontent.com/Rafael-Casteli/prestes-ds-assets/1.0.0/assets/Logos/png/Prestes_Logo_Horizontal_Positiva_RGB.png
+https://raw.githubusercontent.com/Rafael-Casteli/prestes-ds-assets/1.0.2/assets/Logos/png/Prestes_Logo_Horizontal_Positiva_RGB.png
 ```
 
-Como o link aponta para uma **tag**, uma peça feita com a versão `1.0.0` continua apontando para os mesmos arquivos, mesmo depois de publicadas versões novas.
+Como o link aponta para uma **tag**, uma peça feita com a versão `1.0.2` continua apontando para os mesmos arquivos, mesmo depois de publicadas versões novas.
 
 ---
 
 ## Versionamento
 
-As versões seguem `MAIOR.MENOR.CORREÇÃO`, sem prefixo:
+As versões seguem `MAIOR.MENOR.CORREÇÃO`, sem prefixo, e andam junto com a versão do Design System (a primeira publicação é a `1.0.2`):
 
 | Mudança | Exemplo | Versão |
 |---|---|---|
-| Correção (cor, recorte, arquivo trocado) | PNG de um ícone regerado | `1.0.0 → 1.0.1` |
-| Conteúdo novo | Novos ícones, novo empreendimento | `1.0.1 → 1.1.0` |
+| Correção (cor, recorte, arquivo trocado) | PNG de um ícone regerado | `1.0.2 → 1.0.3` |
+| Conteúdo novo | Novos ícones, novo empreendimento | `1.0.3 → 1.1.0` |
 | Mudança que quebra (renomear ou remover arquivo) | Logo antigo retirado | `1.1.0 → 2.0.0` |
 
 O arquivo **[`versao-atual.txt`](versao-atual.txt)** diz qual versão o conector serve. Mudou ele, mudou para todo mundo, sem novo deploy do conector e sem ninguém trocar o link.
@@ -72,7 +72,7 @@ O arquivo **[`versao-atual.txt`](versao-atual.txt)** diz qual versão o conector
 ### Publicar uma versão
 
 ```bash
-node scripts/publicar.mjs                              # próxima correção (1.0.0 → 1.0.1)
+node scripts/publicar.mjs                              # próxima correção (1.0.2 → 1.0.3)
 node scripts/publicar.mjs 1.1.0 "Novos ícones de lazer" # versão escolhida
 ```
 
@@ -81,7 +81,7 @@ O script atualiza `versao-atual.txt`, gera o `manifest.json`, faz o commit, cria
 ### Voltar para uma versão anterior
 
 ```bash
-node scripts/publicar.mjs --voltar 1.0.0
+node scripts/publicar.mjs --voltar 1.0.2
 ```
 
 Nada é apagado: as tags antigas continuam lá, e o conector só passa a apontar para a escolhida.

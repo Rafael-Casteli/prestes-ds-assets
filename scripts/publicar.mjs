@@ -1,9 +1,9 @@
 // Publica uma versão dos assets. Funciona no PowerShell, no Git Bash e no Linux.
 //
-//   node scripts/publicar.mjs              → próxima correção (1.0.0 → 1.0.1)
+//   node scripts/publicar.mjs              → próxima correção (1.0.2 → 1.0.3)
 //   node scripts/publicar.mjs 1.1.0        → versão escolhida
-//   node scripts/publicar.mjs 1.0.2 "Novos ícones de lazer"
-//   node scripts/publicar.mjs --voltar 1.0.0   → rollback: o conector volta a servir 1.0.0
+//   node scripts/publicar.mjs 1.0.3 "Novos ícones de lazer"
+//   node scripts/publicar.mjs --voltar 1.0.2   → rollback: o conector volta a servir 1.0.2
 //
 // O que faz: atualiza versao-atual.txt → gera manifest.json → commit → tag → push.
 // O conector lê versao-atual.txt na branch main e passa a servir a versão nova em até 5 minutos.

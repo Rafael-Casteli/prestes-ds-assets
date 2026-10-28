@@ -1,0 +1,1248 @@
+{
+  "nome": "Design System Prestes · assets",
+  "versao": "1.0.0",
+  "autor": "Rafael Casteli",
+  "total": 205,
+  "grupos": {
+    "Fachadas": [
+      {
+        "arquivo": "belas.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 320575
+      },
+      {
+        "arquivo": "bella-coimbra.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 217271
+      },
+      {
+        "arquivo": "eleva-arvoredo.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 307368
+      },
+      {
+        "arquivo": "eleva-hauer.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 242053
+      },
+      {
+        "arquivo": "eleva-soul.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 213040
+      },
+      {
+        "arquivo": "eleva-you.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 209217
+      },
+      {
+        "arquivo": "evora.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 233607
+      },
+      {
+        "arquivo": "harmos.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 212813
+      },
+      {
+        "arquivo": "home-433.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 340047
+      },
+      {
+        "arquivo": "ideale-copel.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 177796
+      },
+      {
+        "arquivo": "ideale-estrela.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 199777
+      },
+      {
+        "arquivo": "ideale-guarapuava.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 140426
+      },
+      {
+        "arquivo": "ideale-ponta-grossa.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 237788
+      },
+      {
+        "arquivo": "ideale-santa-maria.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 516923
+      },
+      {
+        "arquivo": "inova.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 273285
+      },
+      {
+        "arquivo": "lake.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 354429
+      },
+      {
+        "arquivo": "liv-in.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 300871
+      },
+      {
+        "arquivo": "manaca.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 221271
+      },
+      {
+        "arquivo": "reserva-do-porto.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 298628
+      },
+      {
+        "arquivo": "trancoso.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 225641
+      },
+      {
+        "arquivo": "unique-vision.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 312978
+      },
+      {
+        "arquivo": "vista-batel.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 204458
+      },
+      {
+        "arquivo": "vista-cidade-dos-lagos.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 224203
+      },
+      {
+        "arquivo": "vista-santa-paula.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 242299
+      },
+      {
+        "arquivo": "vista-uvaranas.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 211278
+      },
+      {
+        "arquivo": "vittace-alameda.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 386999
+      },
+      {
+        "arquivo": "vittace-bosque.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 302111
+      },
+      {
+        "arquivo": "vittace-boulevard.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 171843
+      },
+      {
+        "arquivo": "vittace-flora.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 167482
+      },
+      {
+        "arquivo": "vittace-nature.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 353881
+      },
+      {
+        "arquivo": "vittace-reserva.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 134340
+      },
+      {
+        "arquivo": "vittace-sabara.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 360409
+      },
+      {
+        "arquivo": "vittace-serena.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 256163
+      },
+      {
+        "arquivo": "vittace-top-sport.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 169832
+      },
+      {
+        "arquivo": "viva-princesa.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 158290
+      },
+      {
+        "arquivo": "viverti-apucarana-1-2.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 276583
+      },
+      {
+        "arquivo": "viverti-apucarana-3.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 239369
+      },
+      {
+        "arquivo": "viverti-apucarana-4.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 233443
+      },
+      {
+        "arquivo": "viverti-tibagi.jpg",
+        "formato": "jpg",
+        "variante": "normal",
+        "bytes": 435714
+      }
+    ],
+    "Grafismos": [
+      {
+        "arquivo": "grafismo_caixa_texto.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8138
+      },
+      {
+        "arquivo": "grafismo_linha.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8113
+      },
+      {
+        "arquivo": "padronagem_verde_escuro.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 423759
+      },
+      {
+        "arquivo": "png/grafismo_caixa_texto.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 11359
+      },
+      {
+        "arquivo": "png/grafismo_linha.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 3967
+      },
+      {
+        "arquivo": "png/padronagem_verde_escuro.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 345498
+      }
+    ],
+    "Icones": [
+      {
+        "arquivo": "icone_academia.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 14960
+      },
+      {
+        "arquivo": "icone_alvenaria.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 13502
+      },
+      {
+        "arquivo": "icone_aquecedor.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11771
+      },
+      {
+        "arquivo": "icone_armario.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 348
+      },
+      {
+        "arquivo": "icone_arvore.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8079
+      },
+      {
+        "arquivo": "icone_bacia-sanitaria.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 12811
+      },
+      {
+        "arquivo": "icone_bicicleta.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 412
+      },
+      {
+        "arquivo": "icone_carteira-de-trabalho.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 365
+      },
+      {
+        "arquivo": "icone_casa.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 311
+      },
+      {
+        "arquivo": "icone_celular.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8068
+      },
+      {
+        "arquivo": "icone_churrasqueira.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 24588
+      },
+      {
+        "arquivo": "icone_cofre.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 9076
+      },
+      {
+        "arquivo": "icone_contrato.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 399
+      },
+      {
+        "arquivo": "icone_convivencia.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 10663
+      },
+      {
+        "arquivo": "icone_custo.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8167
+      },
+      {
+        "arquivo": "icone_descanso-leitura.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 13222
+      },
+      {
+        "arquivo": "icone_desempenho.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 15508
+      },
+      {
+        "arquivo": "icone_dormitorio.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11821
+      },
+      {
+        "arquivo": "icone_energia.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 10153
+      },
+      {
+        "arquivo": "icone_espaco-gourmet.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 17969
+      },
+      {
+        "arquivo": "icone_espelho.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 326
+      },
+      {
+        "arquivo": "icone_garden.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8241
+      },
+      {
+        "arquivo": "icone_janela.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 9953
+      },
+      {
+        "arquivo": "icone_largura-de-vao.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11624
+      },
+      {
+        "arquivo": "icone_lavatorio.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 12251
+      },
+      {
+        "arquivo": "icone_metragem.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 16780
+      },
+      {
+        "arquivo": "icone_pe-direito.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11891
+      },
+      {
+        "arquivo": "icone_pet-place.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 18161
+      },
+      {
+        "arquivo": "icone_piscina.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 14532
+      },
+      {
+        "arquivo": "icone_piso.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 9352
+      },
+      {
+        "arquivo": "icone_playground.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 12665
+      },
+      {
+        "arquivo": "icone_porcelanato.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11628
+      },
+      {
+        "arquivo": "icone_projeto-arquitetonico.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 22251
+      },
+      {
+        "arquivo": "icone_salao-de-festas.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 13860
+      },
+      {
+        "arquivo": "icone_vaga-de-garagem.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 13642
+      },
+      {
+        "arquivo": "icone_ventilacao.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 11923
+      },
+      {
+        "arquivo": "png/icone_academia.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 18415
+      },
+      {
+        "arquivo": "png/icone_academia_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 11963
+      },
+      {
+        "arquivo": "png/icone_alvenaria.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 5983
+      },
+      {
+        "arquivo": "png/icone_alvenaria_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 4911
+      },
+      {
+        "arquivo": "png/icone_aquecedor.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 7120
+      },
+      {
+        "arquivo": "png/icone_aquecedor_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 5700
+      },
+      {
+        "arquivo": "png/icone_armario.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 5480
+      },
+      {
+        "arquivo": "png/icone_armario_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 4622
+      },
+      {
+        "arquivo": "png/icone_arvore.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 13761
+      },
+      {
+        "arquivo": "png/icone_arvore_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 10490
+      },
+      {
+        "arquivo": "png/icone_bacia-sanitaria.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 21446
+      },
+      {
+        "arquivo": "png/icone_bacia-sanitaria_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 15739
+      },
+      {
+        "arquivo": "png/icone_bicicleta.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 20171
+      },
+      {
+        "arquivo": "png/icone_bicicleta_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 15277
+      },
+      {
+        "arquivo": "png/icone_carteira-de-trabalho.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 10010
+      },
+      {
+        "arquivo": "png/icone_carteira-de-trabalho_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 8266
+      },
+      {
+        "arquivo": "png/icone_casa.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 10794
+      },
+      {
+        "arquivo": "png/icone_casa_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 7236
+      },
+      {
+        "arquivo": "png/icone_celular.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 7097
+      },
+      {
+        "arquivo": "png/icone_celular_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 5690
+      },
+      {
+        "arquivo": "png/icone_churrasqueira.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 24745
+      },
+      {
+        "arquivo": "png/icone_churrasqueira_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 16313
+      },
+      {
+        "arquivo": "png/icone_cofre.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 16176
+      },
+      {
+        "arquivo": "png/icone_cofre_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 12631
+      },
+      {
+        "arquivo": "png/icone_contrato.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 9149
+      },
+      {
+        "arquivo": "png/icone_contrato_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 7540
+      },
+      {
+        "arquivo": "png/icone_convivencia.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 21587
+      },
+      {
+        "arquivo": "png/icone_convivencia_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 15193
+      },
+      {
+        "arquivo": "png/icone_custo.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 25219
+      },
+      {
+        "arquivo": "png/icone_custo_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 18539
+      },
+      {
+        "arquivo": "png/icone_descanso-leitura.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 30876
+      },
+      {
+        "arquivo": "png/icone_descanso-leitura_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 20597
+      },
+      {
+        "arquivo": "png/icone_desempenho.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 28105
+      },
+      {
+        "arquivo": "png/icone_desempenho_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 20108
+      },
+      {
+        "arquivo": "png/icone_dormitorio.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 9544
+      },
+      {
+        "arquivo": "png/icone_dormitorio_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 7326
+      },
+      {
+        "arquivo": "png/icone_energia.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 28387
+      },
+      {
+        "arquivo": "png/icone_energia_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 22808
+      },
+      {
+        "arquivo": "png/icone_espaco-gourmet.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 22166
+      },
+      {
+        "arquivo": "png/icone_espaco-gourmet_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 16547
+      },
+      {
+        "arquivo": "png/icone_espelho.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 9097
+      },
+      {
+        "arquivo": "png/icone_espelho_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 7213
+      },
+      {
+        "arquivo": "png/icone_garden.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 12211
+      },
+      {
+        "arquivo": "png/icone_garden_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 9599
+      },
+      {
+        "arquivo": "png/icone_janela.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 2744
+      },
+      {
+        "arquivo": "png/icone_janela_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 2528
+      },
+      {
+        "arquivo": "png/icone_largura-de-vao.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 11556
+      },
+      {
+        "arquivo": "png/icone_largura-de-vao_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 9475
+      },
+      {
+        "arquivo": "png/icone_lavatorio.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 15960
+      },
+      {
+        "arquivo": "png/icone_lavatorio_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 12234
+      },
+      {
+        "arquivo": "png/icone_metragem.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 16810
+      },
+      {
+        "arquivo": "png/icone_metragem_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 11854
+      },
+      {
+        "arquivo": "png/icone_pe-direito.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 3188
+      },
+      {
+        "arquivo": "png/icone_pe-direito_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 2975
+      },
+      {
+        "arquivo": "png/icone_pet-place.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 27984
+      },
+      {
+        "arquivo": "png/icone_pet-place_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 18305
+      },
+      {
+        "arquivo": "png/icone_piscina.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 20791
+      },
+      {
+        "arquivo": "png/icone_piscina_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 15003
+      },
+      {
+        "arquivo": "png/icone_piso.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 3462
+      },
+      {
+        "arquivo": "png/icone_piso_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 3169
+      },
+      {
+        "arquivo": "png/icone_playground.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 19090
+      },
+      {
+        "arquivo": "png/icone_playground_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 13824
+      },
+      {
+        "arquivo": "png/icone_porcelanato.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 30242
+      },
+      {
+        "arquivo": "png/icone_porcelanato_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 21524
+      },
+      {
+        "arquivo": "png/icone_projeto-arquitetonico.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 27961
+      },
+      {
+        "arquivo": "png/icone_projeto-arquitetonico_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 19176
+      },
+      {
+        "arquivo": "png/icone_salao-de-festas.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 16466
+      },
+      {
+        "arquivo": "png/icone_salao-de-festas_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 12903
+      },
+      {
+        "arquivo": "png/icone_vaga-de-garagem.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 14762
+      },
+      {
+        "arquivo": "png/icone_vaga-de-garagem_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 10862
+      },
+      {
+        "arquivo": "png/icone_ventilacao.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 17088
+      },
+      {
+        "arquivo": "png/icone_ventilacao_branco.png",
+        "formato": "png",
+        "variante": "branco",
+        "bytes": 13019
+      }
+    ],
+    "Logos": [
+      {
+        "arquivo": "Prestes_Avatar_Fundo_Branco_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8657
+      },
+      {
+        "arquivo": "Prestes_Avatar_Fundo_Verde_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8721
+      },
+      {
+        "arquivo": "Prestes_Avatar_Monocromatico_Negativo.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8721
+      },
+      {
+        "arquivo": "Prestes_Avatar_Monocromatico_Positivo.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8664
+      },
+      {
+        "arquivo": "Prestes_Avatar_Principal_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8703
+      },
+      {
+        "arquivo": "Prestes_Logo_Horizontal_Negativa_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 2857
+      },
+      {
+        "arquivo": "Prestes_Logo_Horizontal_Positiva_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 2918
+      },
+      {
+        "arquivo": "Prestes_Logo_Vertical_Negativa_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 2893
+      },
+      {
+        "arquivo": "Prestes_Logo_Vertical_Positiva_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 2981
+      },
+      {
+        "arquivo": "Prestes_Simbolo_Negativo_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8269
+      },
+      {
+        "arquivo": "Prestes_Simbolo_Positivo_RGB.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 8269
+      },
+      {
+        "arquivo": "png/Prestes_Avatar_Fundo_Branco_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 37159
+      },
+      {
+        "arquivo": "png/Prestes_Avatar_Fundo_Verde_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 35027
+      },
+      {
+        "arquivo": "png/Prestes_Avatar_Monocromatico_Negativo.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 37861
+      },
+      {
+        "arquivo": "png/Prestes_Avatar_Monocromatico_Positivo.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 31721
+      },
+      {
+        "arquivo": "png/Prestes_Avatar_Principal_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 33973
+      },
+      {
+        "arquivo": "png/Prestes_Logo_Horizontal_Negativa_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 31610
+      },
+      {
+        "arquivo": "png/Prestes_Logo_Horizontal_Positiva_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 30186
+      },
+      {
+        "arquivo": "png/Prestes_Logo_Vertical_Negativa_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 60477
+      },
+      {
+        "arquivo": "png/Prestes_Logo_Vertical_Positiva_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 59477
+      },
+      {
+        "arquivo": "png/Prestes_Simbolo_Negativo_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 37756
+      },
+      {
+        "arquivo": "png/Prestes_Simbolo_Positivo_RGB.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 41951
+      }
+    ],
+    "Produtos": [
+      {
+        "arquivo": "bella-coimbra.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 65044
+      },
+      {
+        "arquivo": "eleva-arvoredo.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 92539
+      },
+      {
+        "arquivo": "eleva-soul.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 18741
+      },
+      {
+        "arquivo": "evora.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 89908
+      },
+      {
+        "arquivo": "harmos.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 50068
+      },
+      {
+        "arquivo": "home-433.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 35367
+      },
+      {
+        "arquivo": "ideale-copel.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 32264
+      },
+      {
+        "arquivo": "ideale-guarapuava.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 33393
+      },
+      {
+        "arquivo": "inova.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 67185
+      },
+      {
+        "arquivo": "lake.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 25755
+      },
+      {
+        "arquivo": "liv-in.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 6520
+      },
+      {
+        "arquivo": "manaca.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 83713
+      },
+      {
+        "arquivo": "reserva-do-porto.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 19386
+      },
+      {
+        "arquivo": "trancoso.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 111489
+      },
+      {
+        "arquivo": "unique-vision.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 21299
+      },
+      {
+        "arquivo": "vista-batel.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 34070
+      },
+      {
+        "arquivo": "vista-cidade-dos-lagos.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 26048
+      },
+      {
+        "arquivo": "vista-santa-paula.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 15817
+      },
+      {
+        "arquivo": "vista-uvaranas.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 25368
+      },
+      {
+        "arquivo": "vittace-alameda.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 28734
+      },
+      {
+        "arquivo": "vittace-boulevard.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 38620
+      },
+      {
+        "arquivo": "vittace-flora.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 19507
+      },
+      {
+        "arquivo": "vittace-nature.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 9015
+      },
+      {
+        "arquivo": "vittace-reserva.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 36822
+      },
+      {
+        "arquivo": "vittace-sabara.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 43906
+      },
+      {
+        "arquivo": "vittace-serena.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 4805
+      },
+      {
+        "arquivo": "viva-princesa.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 90217
+      },
+      {
+        "arquivo": "viverti-apucarana-1-2.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 47828
+      },
+      {
+        "arquivo": "viverti-apucarana-3-negativa.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 39342
+      },
+      {
+        "arquivo": "viverti-apucarana-3.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 50136
+      }
+    ]
+  }
+}

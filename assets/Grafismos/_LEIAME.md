@@ -6,7 +6,7 @@
 
 ## Eleva You
 
-Grafismos que só podem ser usados em peças do Eleva You (seção **Eleva You** do brand book). Vêm do arquivo de elementos da identidade, foram separados um a um e não foram redesenhados. Todos usam `currentColor`: no HTML, troque a cor pelo atributo `color` do `<svg>`. O PNG sai na cor indicada entre parênteses e só pode ser ampliado ou reduzido por igual.
+Grafismos que só podem ser usados em peças do Eleva You, e só quando o usuário pedir a identidade do Eleva You (seção **Eleva You** do brand book). Sem esse pedido, a peça segue a identidade Prestes. Vêm do arquivo de elementos da identidade, foram separados um a um e não foram redesenhados. Todos usam `currentColor`: no HTML, troque a cor pelo atributo `color` do `<svg>`. O PNG sai na cor indicada entre parênteses e só pode ser ampliado ou reduzido por igual.
 
 - `eleva-you_you.svg` (preto): o "You!" manuscrito da assinatura. Vai ao lado de "Eleva" em Lufga Light, só em branco ou preto.
 - `eleva-you_bandeira.svg` (verde): a faixa ondulada. Recorta foto ou entra em cor cheia. Para outra proporção, gere o caminho pela receita `html`, sem esticar o arquivo num eixo só.

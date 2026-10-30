@@ -11,7 +11,7 @@
 
 <p align="center">
   <img alt="versão" src="https://img.shields.io/github/v/tag/Rafael-Casteli/prestes-ds-assets?label=vers%C3%A3o&color=84e115&labelColor=044d41&sort=semver">
-  <img alt="arquivos" src="https://img.shields.io/badge/arquivos-205-84e115?labelColor=044d41">
+  <img alt="arquivos" src="https://img.shields.io/badge/arquivos-225-84e115?labelColor=044d41">
   <img alt="formatos" src="https://img.shields.io/badge/formatos-SVG%20%C2%B7%20PNG%20%C2%B7%20JPG-84e115?labelColor=044d41">
 </p>
 
@@ -24,9 +24,9 @@
 | Grupo | Conteúdo | Formatos |
 |---|---|---|
 | **[Logos](assets/Logos)** | Logo horizontal e vertical (positiva e negativa), símbolo P e 5 avatares para redes | SVG + PNG |
-| **[Grafismos](assets/Grafismos)** | Caixa de texto com portinha, linha com degrau e padronagem "portas abertas" | SVG + PNG |
+| **[Grafismos](assets/Grafismos)** | Caixa de texto com portinha, linha com degrau e padronagem "portas abertas". Grafismos do Eleva You (prefixo `eleva-you_`), só para peças desse empreendimento | SVG + PNG |
 | **[Ícones](assets/Icones)** | 36 ícones de linha (lazer, unidade e acabamento) em verde-escuro, com variante branca | SVG + PNG + PNG branco |
-| **[Produtos](assets/Produtos)** | 30 logos de empreendimentos, recortados para layout e assinatura | PNG |
+| **[Produtos](assets/Produtos)** | 32 logos de empreendimentos, recortados para layout e assinatura | PNG |
 | **[Fachadas](assets/Fachadas)** | Imagem principal de 39 empreendimentos (≈ 1600 × 900) | JPG |
 
 Cada pasta tem um `_LEIAME.md` com as regras de uso do grupo. Leia antes de aplicar.

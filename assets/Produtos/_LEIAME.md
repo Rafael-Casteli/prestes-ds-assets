@@ -1,6 +1,6 @@
 # Logos de produto
 
-São 29 logos de empreendimentos, recortados a partir dos arquivos da pasta `17. Praças e Produtos` (PNG de até 1200 px). Servem para layout e para a `Assinatura`. Na peça final, use o original indicado no catálogo do repositório (`Desdobra-Prestes/Pracas-e-Produtos`).
+São 31 logos de empreendimentos, recortados a partir dos arquivos da pasta `17. Praças e Produtos` (PNG de até 1200 px). Servem para layout e para a `Assinatura`. Na peça final, use o original indicado em `arquivos.origem` no catálogo (`prestes_produto`).
 
 - A marca Prestes vem sempre antes da marca do produto.
 - `vittace-flora.png` é **branco**: aplique só sobre `verde-escuro` ou preto.

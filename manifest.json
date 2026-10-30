@@ -1,8 +1,8 @@
 {
   "nome": "Design System Prestes · assets",
-  "versao": "1.0.2",
+  "versao": "1.1.0",
   "autor": "Rafael Casteli",
-  "total": 205,
+  "total": 225,
   "grupos": {
     "Fachadas": [
       {
@@ -242,6 +242,60 @@
     ],
     "Grafismos": [
       {
+        "arquivo": "eleva-you_anel.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 3278
+      },
+      {
+        "arquivo": "eleva-you_bandeira.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 247
+      },
+      {
+        "arquivo": "eleva-you_explosao.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 72835
+      },
+      {
+        "arquivo": "eleva-you_moldura-corte.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 376
+      },
+      {
+        "arquivo": "eleva-you_pinceladas.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 103405
+      },
+      {
+        "arquivo": "eleva-you_pingos.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 19149
+      },
+      {
+        "arquivo": "eleva-you_tracos.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 712
+      },
+      {
+        "arquivo": "eleva-you_you.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 13580
+      },
+      {
+        "arquivo": "eleva-you_zigue-zague.svg",
+        "formato": "svg",
+        "variante": "normal",
+        "bytes": 28942
+      },
+      {
         "arquivo": "grafismo_caixa_texto.svg",
         "formato": "svg",
         "variante": "normal",
@@ -258,6 +312,60 @@
         "formato": "svg",
         "variante": "normal",
         "bytes": 423759
+      },
+      {
+        "arquivo": "png/eleva-you_anel.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 94447
+      },
+      {
+        "arquivo": "png/eleva-you_bandeira.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 14112
+      },
+      {
+        "arquivo": "png/eleva-you_explosao.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 183384
+      },
+      {
+        "arquivo": "png/eleva-you_moldura-corte.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 11119
+      },
+      {
+        "arquivo": "png/eleva-you_pinceladas.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 156343
+      },
+      {
+        "arquivo": "png/eleva-you_pingos.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 36035
+      },
+      {
+        "arquivo": "png/eleva-you_tracos.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 96510
+      },
+      {
+        "arquivo": "png/eleva-you_you.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 67629
+      },
+      {
+        "arquivo": "png/eleva-you_zigue-zague.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 159964
       },
       {
         "arquivo": "png/grafismo_caixa_texto.png",
@@ -1080,6 +1188,18 @@
         "formato": "png",
         "variante": "normal",
         "bytes": 18741
+      },
+      {
+        "arquivo": "eleva-you-negativa.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 58618
+      },
+      {
+        "arquivo": "eleva-you.png",
+        "formato": "png",
+        "variante": "normal",
+        "bytes": 50163
       },
       {
         "arquivo": "evora.png",

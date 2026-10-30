@@ -56,5 +56,5 @@ sh(`node scripts/gerar-manifest.mjs`);
 sh(`git add -A`);
 sh(`git commit -m "${mensagem.replace(/"/g, "'")}"`);
 sh(`git tag -a ${versao} -m "${mensagem.replace(/"/g, "'")}"`);
-sh(`git push origin main ${versao}`);
+sh(`git push --atomic origin main ${versao}`); // atômico: se a tag for recusada, o main também não sobe (evita servir versão sem tag)
 console.log(`\nPublicado ${versao}. O conector passa a servir esta versão em até 5 minutos.`);

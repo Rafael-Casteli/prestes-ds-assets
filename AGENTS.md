@@ -49,6 +49,7 @@ Pré-requisito: o asset já foi incluído em `ds/assets` do conector, com `_LEIA
    ```
    O script grava `versao-atual.txt`, gera `manifest.json`, faz commit, cria a tag e envia `main` + tag.
 5. **Se a tag não subir** (alguns ambientes de agente recusam enviar tags), crie a release no navegador: `https://github.com/Rafael-Casteli/prestes-ds-assets/releases/new`, tag = versão, target = `main`, *Publish release*.
+   O envio é atômico (`--atomic`): se a tag for recusada, o `main` também não sobe e `versao-atual.txt` continua na versão anterior. Nesse caso, faça um commit com os assets novos e o `versao-atual.txt` antigo, envie o `main`, crie a release apontando para esse commit e só depois mude `versao-atual.txt` para a versão nova. O conector nunca pode apontar para uma tag que ainda não existe.
 6. **Verifique:**
    - `https://raw.githubusercontent.com/Rafael-Casteli/prestes-ds-assets/<versão>/versao-atual.txt` responde com a versão.
    - O link de um arquivo novo responde 200 e o arquivo abre.

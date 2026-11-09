@@ -28,6 +28,7 @@
 | **[Ícones](assets/Icones)** | 36 ícones de linha (lazer, unidade e acabamento) em verde-escuro, com variante branca | SVG + PNG + PNG branco |
 | **[Produtos](assets/Produtos)** | 32 logos de empreendimentos, recortados para layout e assinatura | PNG |
 | **[Fachadas](assets/Fachadas)** | Imagem principal de 39 empreendimentos (≈ 1600 × 900) | JPG |
+| **[Fontes](assets/Fontes)** | Família Lufga completa: 9 pesos, de Thin a Black, com itálicos | OTF |
 
 Cada pasta tem um `_LEIAME.md` com as regras de uso do grupo. Leia antes de aplicar.
 
@@ -114,7 +115,7 @@ A estrutura espelha `ds/assets` do conector, então um caminho vale nos dois lug
 - A portinha da caixa de texto **nunca distorce**: escale por igual.
 - Verde Prestes `#84E115` nunca como texto sobre branco.
 - A imagem de um empreendimento nunca fala de outro.
-- Tipografia é só **Lufga**, que não está neste repositório: a licença é instalada em cada máquina.
+- Tipografia é só **Lufga**, com os arquivos OTF em [assets/Fontes](assets/Fontes).
 
 O brand book completo está no conector (`prestes_guia`).
 

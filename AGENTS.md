@@ -3,7 +3,7 @@
 Guia para agentes (Claude, Codex e outros) e pessoas que forem atualizar este repositório. Leia inteiro antes de mexer.
 
 - **Dono e mantenedor:** Rafael Casteli, Área de Marca · Prestes. Nenhuma mudança de marca entra sem ele.
-- **O que é:** a cópia **pública** dos arquivos de marca (logos, grafismos, ícones, logos de produto e fachadas) que o conector MCP do Design System Prestes entrega às pessoas. O conector devolve links `raw.githubusercontent.com` daqui, porque o ambiente de código do Claude não consegue baixar do Worker.
+- **O que é:** a cópia **pública** dos arquivos de marca (logos, grafismos, ícones, logos de produto, fachadas e a fonte Lufga) que o conector MCP do Design System Prestes entrega às pessoas. O conector devolve links `raw.githubusercontent.com` daqui, porque o ambiente de código do Claude não consegue baixar do Worker.
 - **Fonte da verdade:** `ds/assets` do conector (`C:\projetos\design-system-prestes-mcp`). Este repositório é um **espelho** daquela pasta. Nunca edite um asset só aqui.
 - **Guia completo:** `AGENTS.md` do conector, seção **8.1 Atualizar assets: passo a passo**. O resumo abaixo basta para a parte deste repositório.
 
@@ -69,7 +69,6 @@ Só muda `versao-atual.txt`. Em até 5 minutos o conector volta a servir a vers�
 ## O que nunca entra aqui
 
 Este repositório é público. Ficam de fora:
-- A fonte **Lufga** (licença por máquina).
 - O **brandbook em PDF**, books digitais e relatórios.
 - Material de empreendimento que ainda não pode ser público (teaser, pré-lançamento): confirme com o Rafael.
 - Tokens de acesso do conector, segredos ou qualquer arquivo de `_acessos/`.
